@@ -1,0 +1,23 @@
+
+Introduction to Statistics in Python.
+
+Chapter 01:
+1. Types of statistics ( Quantitive and categorical  data).
+2. Types of Quantative data (Continuous  and Discrete)
+3. Types of Categorical data (Nominal and Ordinal data).
+
+Chapter 02:
+1. df.sample()
+2. scipy
+
+Chapter 03:
+1.binomial distribution.
+2. centre limit theorem.
+3. normal distribution.
+4. poission distribution.
+5. exponential distrbution.
+6. t distribution.
+7. log normal distribution0
+
+Chapter 04:
+1. seaborn as sns  
